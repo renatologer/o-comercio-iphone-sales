@@ -1,0 +1,20 @@
+A entrevista.
+Fazer Etl.
+Manter funcionando.
+O Engenheiro não faz um Cubo.
+E Ele seja carregado em um local.
+Prover um dados para uma Aplicação.
+O Azure Intreming.
+Sendo O Pools de Sql.
+Usar vários Servidores.
+Ele sustenta os dados.
+O D-1 sendo Ontem.
+Sendo O Ezure Stream Analist.
+O Real Ingestion é em tempo Real.
+Sendo O Bach Processa de uma vez.
+O Data Factory criar  Etl.
+Sendo O Orquestador que Orquesta ou cuida.
+O Pipelines é a trajetória
+
+O Azure Synapse é a união aonde fica tudo.Unificado as ferramentas.
+Sendo O Data Store,Azure Sql aonde executa,Blobs e O Data Lake aonde guarda os dados
